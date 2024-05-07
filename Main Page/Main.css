@@ -26,6 +26,9 @@ header {
     padding: 40px 0;
 }
 
+.slideshow {  
+    position: absolute;
+}
 .divheadings {
     text-align: center;
     font-size: 50px;
@@ -101,4 +104,20 @@ header {
     height: 800px;
     width: 1200px;
     align-content: center;
+
+}
+
+.Eventimg {
+    height: Auto;
+    width: 100%;
+    align-content: center;
+    position: relative;
+}
+
+#Event {    
+    position: relative;
+    height: Auto;
+    width: 100%;
+    align-content: center;
+
 }
