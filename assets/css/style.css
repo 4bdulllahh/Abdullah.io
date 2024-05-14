@@ -162,7 +162,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 
 
 /*.navbar-toggle */
-nav.navbar.bootsnav .navbar-toggle {
+nav.navbar.bootsnav .navbar-toggle { 
     position: relative;
     background-color: transparent;
     border: 1px solid #6e6e6e;
