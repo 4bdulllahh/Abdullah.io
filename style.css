@@ -369,6 +369,10 @@ p {
     display: flex;
 }
 
+.testimonials-col:hover {
+    box-shadow: 0 0 20px 10px rgba(54, 58, 121, 0.2)
+}
+
 .testimonials-col img {
     height: 60px;
     width: 60px;
