@@ -249,14 +249,14 @@ p {
 
 /* Campus Section Start */
 
-.campus {
+.founders {
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 50px;
 }
 
-.campus-col {
+.founders-col {
     position: relative;
     flex-basis: 32%;
     border-radius: 10px;
@@ -264,7 +264,7 @@ p {
     overflow: hidden;
 }
 
-.campus-col img {
+.founders-col img {
     width: 100%;
     display: block;
 }
@@ -304,43 +304,43 @@ p {
 
 /* Campus Section End */
 
-/* Facilities Section Start */
+/* Acheivements Section Start */
 
-.facilities {
+.acheivements {
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 100px;
 }
 
-.facilities-col {
+.acheivements-col {
     flex-basis: 31%;
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
 }
 
-.facilities-col img {
+.acheivements-col img {
     width: 100%;
     transition: 0.5s;
     border-radius: 10px;
 }
 
-.facilities-col img:hover {
+.acheivements-col img:hover {
     box-shadow: 0 0 20px 10px rgba(54, 58, 121, 0.2);
 }
 
-.facilities-col p {
+.acheivements-col p {
     padding: 0;
 }
 
-.facilities-col h3 {
+.acheivements-col h3 {
     text-align: left;
     margin-top: 16px;
     margin-bottom: 15px;
 }
 
-/* Facilities Section End */
+/* Acheivements Section End */
 
 /* Testimonials Section Start */
 
