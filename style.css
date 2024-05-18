@@ -310,9 +310,12 @@ p {
 
 .bestcourse-col img {
     width: 100%;
+    height:auto;
     display: block;
     filter: grayscale(100%);
+    border-radius:3.5%;
 }
+
 .bestcourse-col:hover img {
     filter: grayscale(0);
     transition: 0.5s;
@@ -561,9 +564,9 @@ hr {
 }
 
 .btn {
-    border: 1px solid #5236f4;
+    border: 1px solid #7e7e7e;
     background: transparent;
-    color: #5236f4;
+    color: #7e7e7e;
 }
 
 .btn:hover {
@@ -596,7 +599,7 @@ hr {
 }
 
 .blog-left h5 {
-    color: #24f8c7;
+    color: #000000;
     font-weight: bolder;
     margin: 5px 0;
     cursor: pointer;
@@ -612,12 +615,13 @@ hr {
 }
 
 .blog-right h3 {
-    background: #24f8c7;
+    background: #0a0a0a;
     color: #fff;
     padding: 7px 0;
     font-size: 16px;
     margin-bottom: 20px;
     text-align: center;
+    border-radius: 5px;
 }
 
 .blog-right div {
@@ -630,7 +634,7 @@ hr {
 }
 
 .blog-right div:hover {
-    color: #24f8c7;
+    color: #141414;
     cursor: pointer;
 }
 
