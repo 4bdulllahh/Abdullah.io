@@ -586,46 +586,46 @@ hr {
 
 /* About Us Section end */
 
-/* Blog Section start */
+/* acheivements Section start */
 
-.blog-content {
+.acheivements-content {
     width: 80%;
     margin: auto;
     padding: 60px 0;
 }
 
-.blog-left {
+.acheivements-left {
     flex-basis: 65%;
 }
 
-.blog-left img {
+.acheivements-left img {
     width: 100%;
     margin-bottom: 20px;
 }
 
-.blog-left h2 {
+.acheivements-left h2 {
     color: #222;
     font-weight: 600;
     margin: 20px 0;
 }
 
-.blog-left h5 {
+.acheivements-left h5 {
     color: #000000;
     font-weight: bolder;
     margin: 5px 0;
     cursor: pointer;
 }
 
-.blog-left p {
+.acheivements-left p {
     color: #999;
     padding: 0;
 }
 
-.blog-right {
+.acheivements-right {
     flex-basis: 32%;
 }
 
-.blog-right h3 {
+.acheivements-right h3 {
     background: #0a0a0a;
     color: #fff;
     padding: 7px 0;
@@ -635,7 +635,7 @@ hr {
     border-radius: 5px;
 }
 
-.blog-right div {
+.acheivements-right div {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -644,12 +644,25 @@ hr {
     box-sizing: border-box;
 }
 
-.blog-right div:hover {
+.acheivements-right div:hover {
     color: #141414;
     cursor: pointer;
 }
 
-/* Blog Section End */
+.boldcourses {
+    font-weight:bold;
+}
+
+.postimg {
+    filter: grayscale(100%);
+    transition: 0.5s;
+    border-radius: 10px;
+}
+
+.postimg:hover {
+    filter: grayscale(0%);
+}
+/* acheivements Section End */
 
 /* Comment Box Section Start */
 
