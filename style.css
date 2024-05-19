@@ -617,8 +617,10 @@ hr {
 }
 
 .acheivements-left p {
-    color: #999;
+    color: #535353;
     padding: 0;
+    text-align: left;
+
 }
 
 .acheivements-right {
